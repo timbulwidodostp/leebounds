@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'leebounds': Lee (2009) treatment effect bounds Use leebounds With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f leebounds.ado
+f leebounds.sthlp
