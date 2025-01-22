@@ -118,10 +118,6 @@ bounds, but not for the confidence interval requested with {opt cieffect}.
 {pstd}Basic syntax{p_end}
 {phang2}{cmd:. leebounds studytime activedrug, select(died)}{p_end}
 
-{pstd}Tightened Lee bounds with weighted bootstrap and treatment effect-confidence interval{p_end}
-{phang2}{cmd:. leebounds studytime activedrug [pw=1/age], select(died) tight(agecat) cieffect vce(boot, reps(250) nodots)}{p_end}
-
-
 {title:Saved results}
 
 {pstd}
@@ -169,15 +165,15 @@ bounds, but not for the confidence interval requested with {opt cieffect}.
 {title:References}
 
 {pstd}
-Heckman, J.J. (1979). Sample Selection Bias as a Specification Error. {it: Econometrica} 47, 153–161.
+Heckman, J.J. (1979). Sample Selection Bias as a Specification Error. {it: Econometrica} 47, 153Â–161.
 
 {pstd}
 Imbens, G.W. and C.F. Manski (2004). Confidence Intervals for Partially Identified Parameters. {it: Econometrica} 72,
-1845–1857.
+1845Â–1857.
 
 {pstd}
 Lee, D.S. (2009). Training, Wages, and Sample Selection: Estimating Sharp Bounds on Treatment
-Effects. {it: Review of Economic Studies} 76, 1071–1102. 
+Effects. {it: Review of Economic Studies} 76, 1071Â–1102. 
 
 
 {title:Also see}
@@ -201,7 +197,7 @@ www.youtube.com/@amalsedekah{p_end}
 {psee}
 Harald Tauchmann{p_end}
 {psee}
-Rheinisch-Westfälisches Institut für Wirtschaftsforschung (RWI){p_end}
+Rheinisch-WestfÃ¤lisches Institut fÃ¼r Wirtschaftsforschung (RWI){p_end}
 {psee}
 Essen, Germany{p_end}
 {psee}
