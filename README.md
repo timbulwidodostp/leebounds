@@ -1,6 +1,8 @@
 # leebounds
 Lee (2009) treatment effect bounds Use leebounds With STATA 18
 
+https://www.youtube.com/watch?v=mCHH8kBt0q8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
